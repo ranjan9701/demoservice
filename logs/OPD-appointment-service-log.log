@@ -1,0 +1,4 @@
+09:12:02 PM [main] INFO  c.e.demo.DemoServiceApplication - No active profile set, falling back to default profiles: default
+09:12:06 PM [main] INFO  c.e.demo.DemoServiceApplication - Started DemoServiceApplication in 5.121 seconds (JVM running for 6.184)
+09:14:13 PM [main] INFO  c.e.demo.DemoServiceApplication - No active profile set, falling back to default profiles: default
+09:14:18 PM [main] INFO  c.e.demo.DemoServiceApplication - Started DemoServiceApplication in 6.599 seconds (JVM running for 7.556)
